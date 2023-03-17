@@ -1,0 +1,24 @@
+[
+   {
+      "llm_name": "ChatGPT",
+      "llm_url": "https://chat.openai.com/chat",
+      "rank": 1,
+      "speed": 5,
+      "multi_linguality": 0,
+      "intelligence": 5,
+      "popularity": 5,
+      "up_to_date": 3,
+      "last_updated_year": 2021
+   },
+   {
+      "llm_name": "ChatGPT",
+      "llm_url": "https://chat.openai.com/chat",
+      "rank": 1,
+      "speed": 5,
+      "multi_linguality": 0,
+      "intelligence": 5,
+      "popularity": 5,
+      "up_to_date": 3,
+      "last_updated_year": 2021
+   }
+]
